@@ -18,7 +18,7 @@ spec:
     metadata:
       labels:
         app: nodejs-ex
-        version: 1.0.3
+        version: 1.0.4
     spec:
       containers:
         - name: nodejs
