@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: nodejs
-          image: quay.io/kanaet3888/nodejs:247f9d5637120fe4b5ac6e4e9d00ea2cbcff72db
+          image: quay.io/kanaet3888/nodejs:af884eb1115f4ff4c2a90ee5af98394d3950b659
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
